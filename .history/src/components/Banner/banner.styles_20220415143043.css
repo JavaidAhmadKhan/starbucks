@@ -1,0 +1,21 @@
+.banner-image {
+  display: flex;
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: white;
+  font-size: 40px;
+}
+
+p {
+  font-size: 40px;
+}

@@ -1,0 +1,9 @@
+.banner-image {
+  display: flex;
+  width: 100%;
+}
+
+h3 {
+  font-size: 40px;
+  font-weight: normal;
+}

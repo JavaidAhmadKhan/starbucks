@@ -1,0 +1,7 @@
+.main-nav {
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+  margin: 0;
+  /* cursor: pointer; */
+}

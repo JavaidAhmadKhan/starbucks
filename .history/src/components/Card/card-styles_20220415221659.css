@@ -1,0 +1,16 @@
+h2 {
+  font-size: 42px;
+  font-weight: normal;
+  text-align: center;
+  padding: 20px;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+img {
+  width: 260px;
+}

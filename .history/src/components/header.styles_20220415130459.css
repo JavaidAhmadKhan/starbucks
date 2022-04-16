@@ -1,0 +1,25 @@
+.header {
+  
+
+  padding: 0.5rem 1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.main-nav {
+  display: flex;
+  list-style: none;
+  font-size: 16px;
+  margin: 0;
+  /* cursor: pointer; */
+}
+
+.push {
+  margin-left: auto;
+}
+
+li {
+  padding: 20px;
+  color: #00754a;
+  text-transform: uppercase;
+}

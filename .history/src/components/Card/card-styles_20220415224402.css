@@ -1,0 +1,17 @@
+h2 {
+  font-size: 42px;
+  font-weight: normal;
+  text-align: center;
+  padding: 20px;
+}
+
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 20px;
+  padding: 0px 70px 70px 70px;
+}
+
+img{
+    width: 100%;
+}

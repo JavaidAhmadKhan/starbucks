@@ -1,0 +1,9 @@
+.banner-image {
+  display: flex;
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}

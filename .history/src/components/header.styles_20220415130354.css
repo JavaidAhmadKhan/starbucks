@@ -1,0 +1,20 @@
+.header {
+}
+
+.main-nav {
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+  margin: 0;
+  /* cursor: pointer; */
+}
+
+.push {
+  margin-left: auto;
+}
+
+li {
+  padding: 20px;
+  color: #00754a;
+  text-transform: uppercase;
+}
